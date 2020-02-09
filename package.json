@@ -1,0 +1,24 @@
+{
+  "name": "algo-ds-with",
+  "version": "1.0.0",
+  "description": "Code common data structures and algorithms in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL0TR/algo-ds-with-js.git"
+  },
+  "keywords": [
+    "algo",
+    "ds",
+    "js"
+  ],
+  "author": "SL0TR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SL0TR/algo-ds-with-js/issues"
+  },
+  "homepage": "https://github.com/SL0TR/algo-ds-with-js#readme"
+}
